@@ -1,0 +1,141 @@
+body{
+	min-width: 320px;
+width: auto;
+}
+img{
+	max-width: 100%;
+	height: auto;
+
+}
+.pssec{
+
+	position: relative;
+	margin-top: 40px;
+   margin-top: 2vw;
+ 	height: 98px;
+ 	width: 100%;
+ 	text-align: center;
+ 	background-color: #4de275;
+ 	 
+ }
+
+ .kon{
+	position: absolute;
+	padding-top: 35px;
+	right: 0;
+	left: 0;
+}
+   .menu a{
+   	padding-right:33.92px;
+   	padding-left: 33.92px;
+   	padding-top: 10px;
+	padding-bottom: 10px;
+   	color:#fff;
+   	text-decoration:  none;
+   	text-transform: uppercase;
+   	font-size: 1.2rem;
+   	font-weight: 900;
+   	font-family: 'Open Sans', sans-serif;
+   	letter-spacing: 2px;
+   }
+   .menu a:visited {
+background-color: #fff;   }
+    .menu a:hover {
+   	color: #4de275;
+   	text-decoration: none;
+   	background-color: #fff;
+   	border-radius: 40px;
+   }
+
+ 
+
+#heter:hover {
+  background-color: #4de275;
+  
+  color:#ffffff;
+}
+#heter{
+  background-color:#ffffff; 
+  border-color:#4de275;
+  color:#4de275;
+  font-size: 15px;
+}
+
+
+#gps{
+
+
+    color: #cdcdcd;
+    text-decoration: none;
+}
+#gps:hover{
+text-decoration: none;
+}
+#gpslogo{
+
+   color: #4de275;
+}
+#gpslogo:hover{
+color:#1f9b40;
+}
+
+
+
+
+.cag{ 
+   padding: 0;
+   display: block;
+position: relative;
+   margin-top: 45px;
+   height: 190px;
+   width: 190px; 
+   background-color: #ffffff;
+   border-radius: 20px;
+   box-shadow: -3px 0 35px rgb(51 58 76 / 50%);
+}
+
+.card:hover{
+   color: #4de275;
+}
+
+.card{
+     margin-top: 45px;
+   border: 1px;
+    border-radius: 20px;
+   box-shadow: -3px 0 35px rgb(51 58 76 / 50%);
+   text-decoration: none;
+   height: 13rem;
+   color: #000000;
+}
+.card-text{
+   text-decoration: none;
+
+}
+
+
+
+a  {
+   text-decoration: none;
+}
+
+
+
+#fores{
+height: 590px;
+width: 33%;
+box-shadow: -3px 0 35px rgba(51 58 76 / 50%);
+margin-top: 80px;
+margin-right:95px;
+border-radius: 20px ;
+padding: 0;
+padding-bottom: 50px;
+
+}
+
+
+
+
+
+@font-face {
+font-family: 'Open Sans', sans-serif;
+} 

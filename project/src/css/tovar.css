@@ -1,0 +1,370 @@
+*{font-family: 'Montserrat', sans-serif;
+}
+body{
+	min-width: 320px;
+
+}
+a{
+  text-decoration: none;
+}
+li{
+  list-style-type:none;
+}
+/*здесь модель входа*/
+.modal-dialog{
+  justify-content: center;
+  max-width: 500px;
+  height: 50%;
+
+}
+.her{
+  width: 1000px;
+}
+.modal-content{
+
+}
+.btn-close{
+  margin-left:auto;
+
+}
+.modal-title{
+ color: #27AE60;
+}
+.voy{
+  text-align: center;
+}
+.card span{
+  color:#27AE60;
+  margin-left: 5px;
+}
+/*здесь заканчивается модель входа*/
+#ir{
+  color:#27AE60;
+}
+.nach{
+   height: 50px;
+   width: 100% ;
+   background-color: #333333;
+   display: flex;
+  align-items: center  
+}
+.nach a{
+   color: #ffffff;
+   font-size:0.75vw;
+}
+.nach a:hover{
+   color: #27AE60;
+}
+.logo{
+   height: 5vw;
+   padding: 0;
+}
+.cat{
+   background-color:#27AE60; 
+   color:#fff;
+   border-radius: 8px;
+   font-size:18px;
+   padding: 6px;
+
+}  
+.cat:hover{
+   color:#ffffff;
+   background-color:#1b6535; 
+}
+.icon{
+   position: relative;
+   right:2vw;
+   margin-top: 0.40vw;
+}
+.searc{
+   width: 30vw;
+   background-color:#cdcdcd;
+}
+.kok {
+  background-color: #F2C94C;
+  border-radius: 10px;
+  display: inline-block;
+  transform: skewX(160deg);
+  color: #ffffff;
+}
+.kok:hover{
+background-color: #f0ba1a;
+}
+.navbar-light .navbar-nav .nav-link{
+   color: #000000;
+}
+.skid {
+  display: inline-block;
+}
+ .bi-heart{
+   color:#27AE60;
+ }
+ .bi-cart3{
+   color:#27AE60;
+ }
+.vhod{
+   color:#27AE60 !important;
+}
+.pop{
+  margin-top: 190px;
+  margin-bottom: 40px;
+  color: #27AE60;
+}
+.breadcrumb-item  a{
+  color:#27AE60;
+}
+/* здесь заканчивается шапка_________________________________________*/
+.tov{
+  border-color: #cdcdcd;
+  border: 1px; 
+}
+.naz{
+  font-size: 36px;
+  font-weight: 600;
+}
+.otz{
+  display: inline;
+  font-weight: 500;
+font-size: 16px;
+color: #828282;
+
+}
+.po{
+  color:#E0E0E0;
+  text-align: center;
+width: 90%;
+}
+.slider-nav div{
+  
+ 
+}
+.slider-nav{
+}
+.slider-nav img{
+ border-radius: 10px;
+max-height: 80px;
+}
+
+.slider-for div{
+  
+  
+  border-radius: 10px;
+}
+.slider-for{
+ 
+}
+.slider-for img{
+
+width: 100%;
+
+}
+.per {
+  padding-left: 7em;
+}
+body > div > div > div.col-12.col-lg-7.per > p:nth-child(1){
+  font-size: 36px;
+  font-weight: 600;
+  margin: 0;
+}
+body > div > div > div.col-12.col-lg-7.per > p.prod{
+  font-weight: 500;
+font-size: 16px;
+color: #828282;
+
+}
+body > div > div > div.col-12.col-lg-7.per > botton{
+  background: #27AE60;
+border-radius: 10px;
+color: #FFFFFF;
+
+}
+.bi-heart{
+  position: relative;
+  bottom: 20px;
+  left:20px;
+}
+.har{
+  font-weight: 500;
+font-size: 16px;
+color: #828282;
+}
+.table > :not(caption) > * > *{
+  border-bottom-width: 0px;
+}
+.otdel{
+
+ border-bottom: 1px solid #E0E0E0;
+  color: #cdcdcd;
+}
+
+.otot{
+  font-weight: 600;
+font-size: 36px;
+}
+.o_tovare{
+  font-weight: 500;
+font-size: 18px;
+}
+.o_prod span{
+font-weight: 500;
+font-size: 18px;
+line-height: 22px;
+
+/* Green 2 */
+
+color: #27AE60;
+}
+ 
+.tab {
+    overflow: hidden;
+    
+}
+
+/* Style the buttons that are used to open the tab content */
+.tab button {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+ border-bottom: 2px solid #27AE60;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+    border-bottom: 2px solid #27AE60;
+}
+
+/* Style the tab content */
+.tabcontent{
+    display: none;
+    padding: 6px 12px;
+}
+.potz{
+  background-color: #27AE60;
+  border: none;
+  font-weight: 600;
+  font-size: 18px;
+  border-radius: 10px;
+}
+ ul.hr {
+    margin: 0; /* Обнуляем значение отступов */
+    /* Значение полей */
+   }
+   ul.hr li {
+    display: inline; /* Отображать как строчный элемент */
+     /* Отступ слева */
+  
+   }
+.name{
+  font-size: 18px;
+}
+.zel{
+  color:#27AE60;
+  font-size: 18px;
+}
+.zel img{
+  vertical-align: text-top;
+  margin-right: 0.25em;
+}
+.date{
+  font-size: 18px;
+  color: #828282;
+
+}
+.vert{
+   vertical-align: text-top;
+}
+.respect{
+  margin-left:16em;
+}
+.progress{
+  height: 3px;
+  margin-top: 11px;
+  
+}
+.appraisal{
+  display: flex;
+}
+.appraisal p{
+  font-size: 18px;
+  color: #828282;
+  margin-right: 9px;margin-left: 9px;
+}
+.carousel-item{
+  display: flex;
+}
+
+
+.card{
+  max-width: 285px;
+  margin-right: 38px;
+  border-radius: 10px;
+  box-shadow: 2px 4px 10px rgba(46, 179, 74, 0.15);
+}
+.slick-prev{
+    z-index: 99;
+    left: 0px;
+    background:url(/home/morti/project/src/img/prev.svg) !important;
+
+}
+.slick-next{
+    z-index: 99;
+     right: 0px; 
+background:url(/home/morti/project/src/img/next.svg) no-r !important;
+}
+@media (min-width: 768px){}
+/*footer*/
+.podval-sanya{
+background-color: #27AE60;
+min-height: 446px;
+}
+
+.podval-sanya h1{
+  color: #F2C94C;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 29px;
+}
+
+.podval-sanya p{
+color: #F2C94C;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+}
+
+.podval-sanya a{
+font-weight: 500;
+font-size: 18px;
+color: white;
+}
+.podval-sanya li {
+margin-top: 22px;
+}
+
+.vk-log{
+
+padding-right: 25px;
+filter: brightness(0) invert(1);
+height: 32px;
+width: 32px;
+}
+
+.logotype{
+padding-top: 10%;
+}
+
+.twitter-log{
+padding-right: 25px;
+}
+
+.inst-log{
+
+}

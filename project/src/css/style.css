@@ -1,0 +1,573 @@
+body{
+	min-width: 320px;
+font-family: 'Montserrat', sans-serif;
+}
+a{
+  text-decoration: none;
+}
+li{
+  list-style-type:none;
+}
+/*здесь модель входа*/
+.modal-dialog{
+  justify-content: center;
+  max-width: 500px;
+  height: 50%;
+
+}
+.her{
+  width: 1000px;
+}
+.modal-content{
+
+}
+.btn-close{
+  margin-left:auto;
+
+}
+.modal-title{
+ color: #27AE60;
+}
+.voy{
+  text-align: center;
+}
+/*здесь заканчивается модель входа*/
+.card span{
+  color:#27AE60;
+  margin-left: 5px;
+}
+#ir{
+  color:#27AE60;
+}
+.nach{
+   height: 50px;
+   width: 100% ;
+   background-color: #333333;
+   display: flex;
+  align-items: center  
+}
+.nach a{
+   color: #ffffff;
+   font-size:0.75vw;
+}
+.nach a:hover{
+   color: #27AE60;
+}
+.logo{
+   height: 5vw;
+   padding: 0;
+}
+.cat{
+   background-color:#27AE60; 
+   color:#fff;
+   border-radius: 8px;
+   font-size:18px;
+   padding: 6px;
+
+}  
+.cat:hover{
+   color:#ffffff;
+   background-color:#1b6535; 
+}
+.icon{
+   position: relative;
+   right:2vw;
+   margin-top: 0.40vw;
+}
+.searc{
+   width: 30vw;
+   background-color:#cdcdcd;
+}
+.kok {
+  background-color: #F2C94C;
+  border-radius: 10px;
+  display: inline-block;
+  transform: skewX(160deg);
+  color: #ffffff;
+}
+.kok:hover{
+background-color: #f0ba1a;
+}
+.navbar-light .navbar-nav .nav-link{
+   color: #000000;
+}
+.skid {
+  display: inline-block;
+3}
+ .bi-heart{
+   color:#27AE60;
+ }
+ .bi-cart3{
+   color:#27AE60;
+ }
+.vhod{
+   color:#27AE60 !important;
+}
+.pop{
+  margin-top: 190px;
+  margin-bottom: 40px;
+  color: #27AE60;
+}
+/* здесь заканчивается шапка_________________________________________*/
+
+
+.container h1{
+font-size: 36px;
+line-height: 44px;
+width: 50%;
+}
+
+.container p{
+font-size: 18px;
+line-height: 22px;
+width: 50%;
+
+}
+
+.container_forbutton {
+color: white;
+padding: 10px 30px;
+width: 240px;
+height: 42px;
+background: #27AE60;
+border-radius: 10px;
+}
+.container_forbutton:hover{
+color: white;
+background-color: #1b6535;
+}
+
+.img-card-food{
+margin-top: 150px;
+padding-left: 15px;
+padding-top: 120px;
+background-repeat: no-repeat !important;
+height: 640px;
+background-position-x: right !important;
+}
+.row{
+justify-content: center;
+}
+.style-sanya-2{
+position: relative;
+top: 130px;
+}
+.cartochka-sani-1{
+overflow: hidden;
+border-radius: 20px;
+margin-bottom: 15px;
+max-width: 300px;
+}
+.title-card {
+border-radius: 20px 20px 0px 0px;
+padding: 8px;
+text-align: center;
+color: #fff;
+font-weight: 600;
+font-size: 17px;
+}
+.title-card a{
+margin: 8px;
+text-align: center;
+color: #fff;
+}
+.img-card-sani{
+
+width: 100%;
+height: 230px;
+background-size: cover !important;
+}
+
+.bg-green{
+background: #27AE60;
+}
+.bg-or{
+background: #F2994A;
+}
+.bg-viol{
+background: #9B51E0;
+}
+.bg-red{
+background: #EB5757;
+}
+.bg-sky{
+background: #56CCF2;
+}
+
+
+
+}
+}
+
+/*dplvmspmvds*/
+
+.pgp{
+display: flex;
+justify-content: center;
+width: 100%
+}
+ .card{
+  border-radius: 20px;
+  width: 100% !important;
+  box-shadow: 2px 4px 10px rgba(46, 179, 74, 0.15);
+ }
+
+
+  .carousel-indicators [data-bs-target] {
+    background-color: #27AE60;
+        
+    flex: 0 1 auto;
+    width: 15px;
+    height: 15px;
+    padding: 0;
+    margin-right: 5px;
+    margin-left: 5px;
+    border-radius: 15px;
+    cursor: pointer; 
+    border: 0; 
+    
+    
+    transition: opacity 0.6s ease;
+
+   }
+   .idik{
+  right:30%;
+  bottom: -2.5em;
+}
+   .inn{
+ 
+    width: auto;
+   }
+
+   .card-text{
+    font-size:18px !important;
+    line-height: 22px;-
+    margin: 13px 13px;
+   }
+}
+.card p{
+  font-size: 13px;
+
+}
+.row .col-sm-3{
+  
+  
+}
+.card-img-top{
+  max-width: 130px;
+  min-width: 130px;
+  width: 100%;
+}
+.ne, .pe{
+  width: 1%;
+}
+
+    
+.in{
+background-image: url(/home/morti/project/src/img/next.svg) ;
+}
+.iv{
+  background-image: url(/home/morti/project/src/img/prev.svg) ;
+}
+ .che{
+  font-weight: 600;
+font-size: 15px !important;
+ }
+ .con{
+  background-size: auto !important;
+
+ }
+ .ind{
+  bottom: -3em;
+
+ }
+ /*------------------------------Наши предложения-------------------*/
+.pr{
+  
+  background: url(/home/morti/project/src/img/petno.png) no-repeat ;
+  background-size: contain;
+  background-position: right;
+  margin-top: 100px;
+  }
+.pred{
+  color:#27AE60;
+  text-align: center;
+  margin-top: 2em;
+  font-weight: bold;
+font-size: 40px ;
+
+}
+
+.rec{
+  font-weight: 600;
+font-size: 36px ;
+color:#27AE60;
+margin-top: 2em;
+margin-left: 5%;
+}
+.re{
+
+ 
+  background:#E2E3EA; 
+  width: 65%;
+  border-radius: 0px 120px 120px 0px;
+  margin: 0 !important;
+}
+
+.col h3{
+font-weight: 600;
+font-size: 28px;
+line-height: 34px;
+color: #F2994A;
+}
+.btns{
+  margin-right: 10%;
+  font-weight: 500;
+font-size: 14px;
+  padding: 10px 30px;
+color: #000; 
+  background-color: Transparent;
+  border: 1px solid #27AE60;
+  border-radius: 10px;
+}
+.btns:hover{
+  color:#fff;
+  background: #27AE60;
+}
+.fer 
+{
+   position: relative;
+  left: 0;
+  padding-left:10%;
+}
+.col h3{
+  margin-top: 10%;
+}
+
+}
+.idik{
+  right:30%;
+  bottom: -3em;
+}
+#coc{
+  width: 100%;
+  background-repeat: 
+}
+
+.svj{
+  font-weight: bold;
+font-size: 24px;
+color: #27AE60;
+margin-top: 10%;
+margin-bottom: 3%;
+text-align: center;
+}
+.conteine p{
+  font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+
+}
+.xw {
+   margin-left: 5%;
+    --bs-gutter-x: 0 ;
+}
+.nam{ 
+
+  border: 2px solid #27AE60;
+  width: 99%;
+  background-color: transparent;
+  border-radius: 10px;
+  margin-bottom: 5%;
+}
+.vop {
+   border: 2px solid #27AE60;
+  
+  background-color: transparent;
+  border-radius: 10px;
+    width: 99%;
+}
+.btn-outline-success{
+  border: 1px solid #27AE60;
+box-sizing: border-box;
+border-radius: 10px;
+width: 140px;
+
+}
+
+/*___________________________________подвал_____________________________________*/
+
+.footrrr{
+padding-top: 100px;
+}
+.podval-sanya, .accordion-header, .accordion-button, .accordion-item{
+background-color: #27AE60;
+}
+.accordion-button:not(.collapsed){
+background-color: #27AE60;
+}
+
+.podval-sanya h1, .podval-sanya p, .accordion-body-podval{
+color: #F2C94C;
+font-weight: bold;
+font-size: 24px;
+line-height: 29px;
+}
+
+.podval-sanya p, .podval-sanya a, .accordion-body-podval{
+font-weight: 500;
+}
+
+.podval-sanya a{
+font-size: 18px;
+color: white;
+}
+
+.podval-sanya li{
+margin-top: 22px;
+}
+
+.vk-log{
+filter: brightness(0) invert(1);
+height: 32px;
+width: 32px;
+}
+
+.logotype{
+padding-top: 10%;
+}
+
+.twitter-log, .vk-log{
+padding-right: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width: 320px) and (max-width: 407.98px){
+
+.logotype{
+padding-top: 10px;
+}
+.podval-sanya h1, .podval-sanya p{
+font-size: 16px;
+line-height: 21px;
+}
+.podval-sanya a{
+font-size: 14px;
+}
+
+}
+/*// Экстрамалые девайсы (портретные телефоны, < 576px)*/
+@media (max-width: 575.98px) {
+
+.logotype{
+padding-top: 10px;
+}
+.podval-sanya h1, .podval-sanya p{
+font-size: 18.5px;
+line-height: 23px;
+}
+.podval-sanya a{
+font-size: 16.5px;
+}
+}
+/* Малые девайсы (горизонтальные телефоны, >= 575px)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+.logotype{
+padding-top: 10px;
+}
+.podval-sanya h1, .podval-sanya p{
+font-size: 20px;
+line-height: 25px;
+}
+.podval-sanya a{
+font-size: 18px;
+}
+}
+/* Вот тут ты сделаешь выпадающие списки и скроешь обычные*/
+@media (max-width: 768px){
+.footrrr {
+
+}
+}
+
+/* Средние девайсы (планшеты, >= 768px) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+.vk-log{
+padding-left: 25%;
+}
+.nomer{
+padding-left: 20%;
+}
+.podval-sanya h1, .podval-sanya p{
+font-size: 22px;
+line-height: 27px;
+}
+.podval-sanya a{
+font-size: 20px;
+}
+
+.fer .row .col h3{
+font-size: 16px;
+line-height: 20px;
+}
+.fer .row .col p{
+font-size: 10px;
+}
+
+}
+
+/* Большие девайсы (десктопы, >= 992px)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+.footrrr{
+padding-left: 65px;
+}
+.fer .row .col h3{
+font-size: 20px;
+line-height: 22px;
+}
+.fer .row .col p{
+font-size: 13px;
+}
+}
+
+/*Экстрабольшие девайсы (большие десктопы, >= 1200px)*/
+@media (min-width: 1200px) { ... }
+@media (min-width: 1400px){
+  .container-xxl, .container-xl, .container-lg, .container-md, .container-sm, .container 
+  {
+   max-width: 100% !important;
+  }
+}
+@media (min-width: 1400px){
+.svj{
+  font-weight: bold;
+font-size: 36px;
+color: #27AE60;
+margin-top: 10%;
+margin-bottom: 3%;
+text-align: center;
+}
+}
